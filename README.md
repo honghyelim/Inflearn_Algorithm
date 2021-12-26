@@ -1,7 +1,7 @@
 # Inflearn_Algorithm
 
 
-https://github.com/honghyelim/Inflearn_Algorithm/blob/main/sec3.ipynb
+[섹션3.탐색&시뮬레이션](https://github.com/honghyelim/Inflearn_Algorithm/blob/main/sec3.ipynb)
 
 
-https://github.com/honghyelim/Inflearn_Algorithm/blob/main/Sec4.ipynb
+[섹션4.이분탐색&그리디](https://github.com/honghyelim/Inflearn_Algorithm/blob/main/Sec4.ipynb)

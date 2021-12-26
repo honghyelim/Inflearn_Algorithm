@@ -1,5 +1,4 @@
-# Inflearn_Algorithm
-## 파이썬 알고리즘 문제
+## 파이썬 알고리즘 문제 (with Inflearn)
 
 [섹션3.탐색&시뮬레이션](https://github.com/honghyelim/Inflearn_Algorithm/blob/main/sec3.ipynb)
 
